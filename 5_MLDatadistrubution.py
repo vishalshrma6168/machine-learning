@@ -17,5 +17,5 @@ plt.show()
 import numpy as np
 import matplotlib.pyplot as plt
 sharad = np.random.uniform(0.0, 5.0, 100000)
-plt.hist(sharad, 100)
+plt.hist(sharad, 10)
 plt.show()
