@@ -41,5 +41,5 @@ sharad = numpy.std(speed)
 print(sharad)
 
 # Symbol of SD and Variance:
-# Standard Deviation Symbol = σ
-# Variance Symbol = σ2
+# Standard Deviation Symbol = σ sigma
+# Variance Symbol = σ2 sigma ka square root
